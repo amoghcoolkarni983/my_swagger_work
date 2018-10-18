@@ -1,0 +1,1 @@
+SELECT * FROM person WHERE PERSON_ID = ?
